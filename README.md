@@ -103,7 +103,7 @@ npm start
 - **Team Member 1** - Nevil Dhinoja
 - **Team Member 2** - Krishil Agrawal
 - **Team Member 3** - Parthiv Panchal
-- **Team Member 4** - Ashta Makwana
+- **Team Member 4** - Astha Makwana
 - **Team Member 5** - Yashvi Bhadani
 
 ## 📌 License
