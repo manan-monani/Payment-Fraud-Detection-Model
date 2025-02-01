@@ -99,7 +99,7 @@ npm start
 
 ## 📌 Contributors
 
-- **Your Name** - Manan Monani
+- **My self** - Manan Monani
 - **Team Member 1** - Nevil Dhinoja
 - **Team Member 2** - Krishil Agrawal
 - **Team Member 3** - Parthiv Panchal
