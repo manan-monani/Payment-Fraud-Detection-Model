@@ -99,9 +99,12 @@ npm start
 
 ## 📌 Contributors
 
-- **Your Name** - [GitHub](https://github.com/your-username)
-- **Team Member 1** - [GitHub](https://github.com/team-member1)
-- **Team Member 2** - [GitHub](https://github.com/team-member2)
+- **Your Name** - Manan Monani
+- **Team Member 1** - Nevil Dhinoja
+- **Team Member 2** - Krishil Agrawal
+- **Team Member 3** - Parthiv Panchal
+- **Team Member 4** - Ashta
+- **Team Member 5** - Yashvi Bhadani
 
 ## 📌 License
 
